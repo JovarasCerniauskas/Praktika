@@ -1,4 +1,4 @@
-Darbą atliko Jovaras Černiauskas
+Darbą atliko Jovaras Černiauskas 
 Užduotis:sukurti unikalų nuotykių žaidimą
 Patch notes:
 Sukurti du veikejai. 
